@@ -1,28 +1,5 @@
-Well, this is my old profile... Check me out me on https://github.com/marticliment or on https://www.marticliment.com
+# Hello there!
+This is a helper profile used for GitHub actions and other CI Workflows that require human reviews. (You can't approve your own PR)
 
-
-```
-                                                    
-       444444444        000000000             444444444  
-      4::::::::4       00:::::::::00         4::::::::4  
-     4:::::::::4    00:::::::::::::00       4:::::::::4  
-    4::::44::::4   0:::::::000:::::::0     4::::44::::4  
-   4::::4 4::::4   0::::::0   0::::::0    4::::4 4::::4  
-  4::::4  4::::4   0:::::0     0:::::0   4::::4  4::::4  
- 4::::4   4::::4   0:::::0     0:::::0  4::::4   4::::4  
-4::::444444::::444 0:::::0 000 0:::::0 4::::444444::::444
-4::::::::::::::::4 0:::::0 000 0:::::0 4::::::::::::::::4
-4444444444:::::444 0:::::0     0:::::0 4444444444:::::444
-          4::::4   0:::::0     0:::::0           4::::4  
-          4::::4   0::::::0   0::::::0           4::::4  
-          4::::4   0:::::::000:::::::0           4::::4  
-        44::::::44  00:::::::::::::00          44::::::44
-        4::::::::4    00:::::::::00            4::::::::4
-        4444444444      000000000              4444444444
-
-```
-
-Well, this is my old profile... Check me out me on https://github.com/marticliment or on https://www.marticliment.com
-
-
+### Consider this a 301 redirect to [@marticliment](https://github.com/marticliment)
 
